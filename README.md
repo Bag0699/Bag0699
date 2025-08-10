@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">¡Hola! Soy Brayam Ayala 👋</h1>
+<h1 align="left">¡Hola! Soy Brayan Ayala 👋</h1>
 
 ###
 
