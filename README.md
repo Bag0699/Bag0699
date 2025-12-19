@@ -70,10 +70,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/bag0699/bag0699/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/brayan741">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=brayan741&count=5" alt="Spotify recently played"  />
